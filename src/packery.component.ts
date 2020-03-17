@@ -46,35 +46,49 @@ import { Widget } from './widget';
       }
       
       .width-1 {
-        width: 23%;
-      }
+        width: 15%;
+      }    
       
       .width-2 {
-        width: 48%;
+        width: 31%;
       }
       
       .width-3 {
-        width: 73%;
+        width: 47%;
       }
       
       .width-4 {
-        width: 98%;
+        width: 63%;
+      }
+      .width-5 {
+        width: 79%;
+      }
+      .width-6 {
+        width: 95%;
       }
       
       .height-1 {
-        padding-top: 23%;
+        padding-top: 15%;
       }
       
       .height-2 {
-        padding-top: 48%;
+        padding-top: 31%;
       }
       
       .height-3 {
-        padding-top: 73%;
+        padding-top: 47%;
       }
       
       .height-4 {
-        padding-top: 98%;
+        padding-top: 63%;
+      }
+
+      .height-5 {
+        padding-top: 79%;
+      }
+      
+      .height-6 {
+        padding-top: 95%;
       }
       
       .widget-grid {
